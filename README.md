@@ -2,7 +2,7 @@
 Este portafolio web muestra mis proyectos de **QA**. 
 Incluye un **formulario de contacto** conectado a una API que permite guardar los datos del formulario en la base de datos y mostrarlos en la página de Admin.
 
-🔗 [Ver Web Portfolio QA](https://github.com/MercaQA/Portafolio-Teresa-Mercader)
+🔗 [Ver Web Portfolio QA](https://teresamercaderqaorganization.github.io/Portafolio-Teresa-Mercader/)
 
 
 ## ⚙️ Funcionalidades principales
@@ -55,6 +55,6 @@ Se probó la **API del formulario de contacto** y se validó el correcto almacen
 ---
 
 ## 👩‍💻 Autora
-Teresa Mercader 
+Teresa Mercader QA
 
 
