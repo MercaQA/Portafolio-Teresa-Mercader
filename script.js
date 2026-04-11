@@ -1,6 +1,6 @@
 // 1. CAMBIAR POR URL Y KEY DE TU API
 const SUPABASE_URL = 'https://xwvncroskblsdroggitz.supabase.co/rest/v1';
-const SUPABASE_API_KEY = 'sb_secret_-IxhoVWmwjJchIjzQ67rEw_q072h-Sj';
+const SUPABASE_API_KEY = ';
 
 
 //ENVIAR DATOS DE UN FORMULARIO A UNA API CON POST
