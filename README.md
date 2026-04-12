@@ -41,7 +41,7 @@ Se ha generado una API que permite agregar, editar, consultar y eliminar datos d
 - URL API (requiere acceso): [Supabase API](https://xwvncroskblsdroggitz.supabase.co/rest/v1/form)  
 - Documentación de la API: [Documentación API](https://teresamercaderqaorganization.github.io/Portafolio-Teresa-Mercader/apidoc.html) 
 ---
-https://xwvncroskblsdroggitz.supabase.co/rest/v1/form
+
 ## ⚙️ QA Testing
 ### Pruebas exploratorias de la web
 Se realizaron pruebas exploratorias en navegadores web y móviles para asegurar el correcto funcionamiento de la interfaz y la interacción con el usuario.
