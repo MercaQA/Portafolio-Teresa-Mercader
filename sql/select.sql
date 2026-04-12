@@ -20,10 +20,10 @@ SELECT * FROM form WHERE message IN ('job','information');
 SELECT * FROM form WHERE name= 'maria' AND name= 'ana';
 
 -- Consultar por email que contenga gmail y asunto job
-SELECT * FROM form WHERE email= 'gmail' AND subject= 'job';
+SELECT * FROM form WHERE email= '%gmail%' AND subject= 'job';
 
 -- Consultar por edad mayor a 30 y mensaje que contenga test
-SELECT * FROM form WHERE age > 30 AND message= 'test';
+SELECT * FROM form WHERE age > 30 AND message= '%test%';
 
 --Consultar datos ordenados de la A a la Z
 SELECT* FROM form ORDER BY email ASC;
