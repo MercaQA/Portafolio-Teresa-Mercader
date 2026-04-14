@@ -40,7 +40,8 @@ Se ha creado una base de datos en Supabase para almacenar los datos enviados des
 Se ha generado una API que permite agregar, editar, consultar y eliminar datos de la base de datos creada en supabase.
 - URL API (requiere acceso): [Supabase API](https://xwvncroskblsdroggitz.supabase.co/rest/v1/form) 
 - Documentación de la API: [Documentación API](https://teresamercaderqaorganization.github.io/Portafolio-Teresa-Mercader/apidoc.html) 
----
+
+
 ## ⚙️ QA Testing
 ### Pruebas exploratorias de la web
 Se realizaron pruebas exploratorias en navegadores web y móviles para asegurar el correcto funcionamiento de la interfaz y la interacción con el usuario.
